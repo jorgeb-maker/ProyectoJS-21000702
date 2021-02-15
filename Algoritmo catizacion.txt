@@ -1,0 +1,21 @@
+Cotizaciones de seguro
+
+1- Determinar edad
+2- Nombre del cliente
+3- Sueldo del cliente
+4- Despues de esto validamos si el cliente es casado o no
+5- Tiene propiedades
+6- En caso fuera negativa la respuesta haremos los calculos para una sola persona
+	6.1 Monto de recargo segun edad (validar diferentes rubros)
+	6.2 Monto de recargo si cuenta con propiedades
+	6.3 MOnto de recargo segun sueldo
+7- Emergen las alertas con el total de recargos y el total a pagar por el servicio
+
+4.1- En caso la respuesta sea afirmativa deberemos de generar algunos calculos adicionales
+	* Verificar la edad del conyuge(validar diferentes rubros)
+	* Determinar la cantidad de hijos (costo segun cantidad)
+	* Realizar los calculos de acuerdo a los parametros anteriores
+	* Incluimos los cargos de propiedad y sueldo tambien
+4.2 Emergen las pantallas con la inforamcion del servicio pero de forma familiar
+
+	

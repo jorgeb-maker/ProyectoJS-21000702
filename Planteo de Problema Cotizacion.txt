@@ -1,0 +1,15 @@
+Proyecto Javascript
+	En primer plano evaluaremos los aspectos dentro del programa
+	que vamos a completar. Actualmente el programa solo genera las pantallas
+	de inicio sin ningun calculo partiendo desde este punto ingresaremos
+	lo comandos necesarios para ejecutar las funciones solicitadas.
+	
+	Se cuenta con un precio base en cual se inciaran los calculos
+	a esta base debemos aplicarle % de recargo dependiendo 
+	algunos facturos tales como: el cliente es casado, si tiene o no
+	hijos, si cuenta con propiedades, el rango de edad del cliente
+	
+	Al finalizar el proyecto el programa debe ejecutar de forma nos completa
+	la cotizacion incluyendo Base + % de recargo(s), y el total a pagar
+	
+	
